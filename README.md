@@ -11,7 +11,7 @@ This collection of notebooks offers practical, hands-on tutorials for interactin
 
 ## Notebooks Overview
 
-### `alphafold-api-introduction.ipynb`
+### `1_alphafold-api-introduction.ipynb`
 
 This notebook serves as the foundational introduction to the AlphaFold Database API. It covers:
 * **API Request Formulation:** How to construct and send basic API requests to retrieve protein structure prediction data.
