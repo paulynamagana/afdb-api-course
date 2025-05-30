@@ -20,11 +20,13 @@ This notebook serves as the foundational introduction to the AlphaFold Database 
 
 ### `2_afdb_data_visualisation.ipynb`
 
-This notebook focuses on methods to visualize and interpret the data retrieved from the AlphaFold Database, specifically:
+This notebook focuses on methods to visualise and interpret the data retrieved from the AlphaFold Database, specifically:
 
 * **Parsing pLDDT Scores:** Extracting per-residue confidence metrics from protein structure files.
-* **Visualizing pLDDT:** Plotting confidence scores along the protein sequence to identify reliably predicted regions.
-* **Analyzing PAE matrices:** Creating visualizations of Predicted Aligned Error to assess the relative confidence of different parts of a protein structure.
+* **Visualising pLDDT:** Plotting confidence scores along the protein sequence to identify reliably predicted regions.
+* **Analysing PAE matrices:** Creating visualisations of Predicted Aligned Error to assess the relative confidence of different parts of a protein structure.
+* **Plotting AlphaMissense data:** Visualising variant effect predictions from AlphaMissense vs pLDDT.
+
 
 ### `3_AFDB_BigQuery.ipynb`
 
@@ -32,7 +34,7 @@ This notebook provides a guide to accessing and querying AlphaFold Database info
 
 * **BigQuery Setup:** Instructions on setting up a BigQuery environment to interact with AlphaFold data.
 * **Basic Queries:** Constructing SQL queries to retrieve specific protein metadata.
-* **Advanced Data Analysis:** Performing complex queries for filtering, aggregating, and analyzing AlphaFold data.
+* **Advanced Data Analysis:** Performing complex queries for filtering, aggregating, and analysing AlphaFold data.
 
 
 ## Course Context
